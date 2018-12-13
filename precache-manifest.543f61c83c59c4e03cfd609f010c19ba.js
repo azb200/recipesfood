@@ -4,36 +4,36 @@ self.__precacheManifest = [
     "url": "/recipesfood/static/media/glyphicons-halflings-regular.e18bbf61.ttf"
   },
   {
-    "revision": "08056d07574482d0328c",
-    "url": "/recipesfood/static/css/main.29daa954.chunk.css"
+    "revision": "8112809ba41dc9d4ce43",
+    "url": "/recipesfood/static/css/main.72c25e7a.chunk.css"
   },
   {
     "revision": "c96165c226ec31117b63d29641a80727",
     "url": "/recipesfood/static/media/banner.c96165c2.png"
   },
   {
-    "revision": "9aaa5ca94214ac07e2e5",
-    "url": "/recipesfood/static/js/1.9aaa5ca9.chunk.js"
+    "revision": "020a612a9c544a4b9619",
+    "url": "/recipesfood/static/js/1.020a612a.chunk.js"
   },
   {
     "revision": "c2ab22e09bc43a8c2fe0",
     "url": "/recipesfood/static/js/runtime~main.c2ab22e0.js"
   },
   {
-    "revision": "448c34a56d699c29117adc64c43affeb",
-    "url": "/recipesfood/static/media/glyphicons-halflings-regular.448c34a5.woff2"
-  },
-  {
     "revision": "f4769f9bdb7466be65088239c12046d1",
     "url": "/recipesfood/static/media/glyphicons-halflings-regular.f4769f9b.eot"
+  },
+  {
+    "revision": "448c34a56d699c29117adc64c43affeb",
+    "url": "/recipesfood/static/media/glyphicons-halflings-regular.448c34a5.woff2"
   },
   {
     "revision": "fa2772327f55d8198301fdb8bcfc8158",
     "url": "/recipesfood/static/media/glyphicons-halflings-regular.fa277232.woff"
   },
   {
-    "revision": "08056d07574482d0328c",
-    "url": "/recipesfood/static/js/main.08056d07.chunk.js"
+    "revision": "8112809ba41dc9d4ce43",
+    "url": "/recipesfood/static/js/main.8112809b.chunk.js"
   },
   {
     "revision": "89889688147bd7575d6327160d64e760",
@@ -60,11 +60,11 @@ self.__precacheManifest = [
     "url": "/recipesfood/static/media/fontawesome-webfont.912ec66d.svg"
   },
   {
-    "revision": "9aaa5ca94214ac07e2e5",
-    "url": "/recipesfood/static/css/1.29a37c2e.chunk.css"
+    "revision": "020a612a9c544a4b9619",
+    "url": "/recipesfood/static/css/1.1f57ad43.chunk.css"
   },
   {
-    "revision": "71be1bc6fb7b20a19c8accfa481f6a0e",
+    "revision": "44475908a20141d643378a03bee27474",
     "url": "/recipesfood/index.html"
   }
 ];
